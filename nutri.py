@@ -1,3 +1,8 @@
+##Author : Eyitayo Olowojolu
+#Course: sdev 140
+#Assignment: Final project
+#NutriTrack Application (Nutritiopn tracker app)
+
 from breezypythongui import EasyFrame
 from tkinter import messagebox, Canvas
 from PIL import Image, ImageTk
